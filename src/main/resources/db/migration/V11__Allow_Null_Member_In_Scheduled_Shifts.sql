@@ -1,0 +1,1 @@
+ALTER TABLE scheduled_shifts ALTER COLUMN member_id DROP NOT NULL;
